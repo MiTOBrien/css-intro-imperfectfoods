@@ -6,3 +6,32 @@
 /* text color -> #453D3D */
 /* button color -> #B32274 */
 /* button text color -> white */
+
+body {
+    background-color: #B4E4E6;  
+    color: #453D3D;             
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+    font-weight: normal;
+}
+
+.green-circle-images {
+    height: 150px;
+    width: 150px;
+}
+
+.info {
+    font-size: 1.5em;
+}
+
+.get-started-btn {
+    background-color: #B32274;  
+    color: white;               
+}
